@@ -8,7 +8,7 @@
   "override_attributes": {
   },
   "run_list": [
-      "recipe['httpd']",
-      "recipe['download_package']"
+      "recipe[httpd]",
+      "recipe[download_package]"
     ]
 }
