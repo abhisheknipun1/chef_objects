@@ -9,8 +9,6 @@
   "override_attributes": {
   },
     "run_list": [
-    "recipe[httpd]",
-    "recipe[download_package]",
-    "recipe[tomcat_v8]"
+    "recipe[download_package]"
         ]
 }
