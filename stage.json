@@ -9,7 +9,7 @@
   },
   "override_attributes": {
   },
-  "run_list" [
+  "run_list": [
       "recipe[httpd]"
       "recipe[download_package]"
     ]
