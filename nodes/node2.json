@@ -12,4 +12,5 @@
     "recipe[httpd]",
     "recipe[download_package]",
     "recipe[tomcat_v8]"
+        ]
 }
