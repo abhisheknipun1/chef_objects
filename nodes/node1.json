@@ -3,8 +3,13 @@
   "description": "",
   "json_class": "Chef::Node",
   "chef_type": "node",
+    "chef:environment": "dev",
   "default_attributes": {
   },
   "override_attributes": {
   }
+    "run_list": [
+    "recipe[httpd]",
+    "recipe[download_package]",
+    "recipe[tomcat_v8]"
 }
