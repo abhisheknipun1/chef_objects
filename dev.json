@@ -7,8 +7,4 @@
   },
   "override_attributes": {
   },
-  "env_run_list": [
-      "recipe[httpd]",
-      "recipe[download_package]"
-    ]
 }
