@@ -1,6 +1,6 @@
 {
     "name": "node1",
-  "description": "node2",
+  "description": "node1",
   "json_class": "Chef::Node",
   "chef_type": "node",
     "chef:environment": "dev",
