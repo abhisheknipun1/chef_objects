@@ -4,12 +4,12 @@
   "cookbook_version": {
   },
   "json_class": "Chef::Environment",
-  "chef_type": "environment"
+  "chef_type": "environment",
   "default_attributes": {
   },
   "override_attributes": {
   },
-  "run_list" [
+  "run_list": [
       "recipe[httpd]"
       "recipe[download_package]"
     ]
