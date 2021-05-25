@@ -1,0 +1,10 @@
+{
+    "name": "node1",
+  "description": "",
+  "json_class": "Chef::Node",
+  "chef_type": "node",
+  "default_attributes": {
+  },
+  "override_attributes": {
+  }
+}
