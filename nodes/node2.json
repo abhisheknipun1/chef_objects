@@ -7,7 +7,7 @@
   "default_attributes": {
   },
   "override_attributes": {
-  }
+  },
     "run_list": [
     "recipe[httpd]",
     "recipe[download_package]",
